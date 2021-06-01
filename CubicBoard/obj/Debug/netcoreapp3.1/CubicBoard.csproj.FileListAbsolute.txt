@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Cubic motion\CubicBoard\bin\Debug\netcoreapp3.1\CubicBoard.deps.json
+C:\Users\User\source\repos\Cubic motion\CubicBoard\bin\Debug\netcoreapp3.1\CubicBoard.dll
+C:\Users\User\source\repos\Cubic motion\CubicBoard\bin\Debug\netcoreapp3.1\CubicBoard.pdb
+C:\Users\User\source\repos\Cubic motion\CubicBoard\obj\Debug\netcoreapp3.1\CubicBoard.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Cubic motion\CubicBoard\obj\Debug\netcoreapp3.1\CubicBoard.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Cubic motion\CubicBoard\obj\Debug\netcoreapp3.1\CubicBoard.AssemblyInfo.cs
+C:\Users\User\source\repos\Cubic motion\CubicBoard\obj\Debug\netcoreapp3.1\CubicBoard.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cubic motion\CubicBoard\obj\Debug\netcoreapp3.1\CubicBoard.dll
+C:\Users\User\source\repos\Cubic motion\CubicBoard\obj\Debug\netcoreapp3.1\CubicBoard.pdb
